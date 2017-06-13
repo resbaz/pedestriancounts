@@ -1,6 +1,6 @@
 # Pedestrian Count in Melbourne
 
-The accompanying .csv file contains the hourly pedestrialn counts at different sensor locations around the city for the years 2012 to 2016. The variables in the dataset (columns) are:
+The accompanying .zip file contains a csv file with the hourly pedestrialn counts at different sensor locations around the city for the years 2012 to 2016. The variables in the dataset (columns) are:
 1) Timestamp
 2) Day of the week
 3) Time of the day (corresponds to each hour)
